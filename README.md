@@ -1,1 +1,3 @@
-# custom-css
+ body {
+        display: none;
+    }
